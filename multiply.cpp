@@ -3,9 +3,11 @@ using namespace std;
 
 int main()
 {  
-     int a=10,b=20;
+     int a,b;
+     cin>>a;
+     cin>>b;
     int multiply=a*b;
-    cout<<"sum is "<<multiply;
+    cout<<"multiplication is "<<multiply;
 
 
     return 0;
