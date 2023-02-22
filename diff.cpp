@@ -5,7 +5,7 @@ int main()
 {  
      int a=10,b=20;
     int difference=a-b;
-    cout<<"sum is "<<difference;
+    cout<<"difference is  "<<difference;
 
 
     return 0;
