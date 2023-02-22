@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {  
      int a=10,b=20;
-    int divide=b/a;
-    cout<<"sum is "<<divide;
+    int difference=b/a;
+    cout<<"sum is "<<difference;
 
 
     return 0;
